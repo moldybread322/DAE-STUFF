@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmoor\\Downloads\\Dominic-s-Game-Dev-Course-main\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj": {}
+    "C:\\Users\\dmoor\\OneDrive\\Desktop\\DAE STUFF\\c#_1\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmoor\\Downloads\\Dominic-s-Game-Dev-Course-main\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj": {
+    "C:\\Users\\dmoor\\OneDrive\\Desktop\\DAE STUFF\\c#_1\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmoor\\Downloads\\Dominic-s-Game-Dev-Course-main\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj",
+        "projectUniqueName": "C:\\Users\\dmoor\\OneDrive\\Desktop\\DAE STUFF\\c#_1\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj",
         "projectName": "Testing.cs",
-        "projectPath": "C:\\Users\\dmoor\\Downloads\\Dominic-s-Game-Dev-Course-main\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj",
+        "projectPath": "C:\\Users\\dmoor\\OneDrive\\Desktop\\DAE STUFF\\c#_1\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\Testing.cs.csproj",
         "packagesPath": "C:\\Users\\dmoor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmoor\\Downloads\\Dominic-s-Game-Dev-Course-main\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\obj\\",
+        "outputPath": "C:\\Users\\dmoor\\OneDrive\\Desktop\\DAE STUFF\\c#_1\\Dominic-s-Game-Dev-Course-main\\Testing.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmoor\\AppData\\Roaming\\NuGet\\NuGet.Config"
